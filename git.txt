@@ -1,0 +1,9 @@
+cara untuk sebelum commit git
+1. cek status git dengan command (git status)
+2. dika ada yang merah maka hijaukan dengan command (git add .) untuk sekalian semua atau (git add -- namaFile)
+3.lalu cek git status lagi (git status), jika sudah hijau/staging maka bisa dicommit 
+4. commit perubahan dengan menggunakan command (git commit -m "comentar")
+5. cek statusnya kembali, jika bersih berarti proses berhasil
+6. tulis command (git log) atau (git log -- namaFile) untuk melihat apa saja perubahannya
+7. cara untuk mengebalikan perubahan sebelumnya dengan menggunakan command (git checkout 5DigitHash -- namaFile )
+8. cara untuk mencancel folder berhubangan dengan git atau menonaktifkan git ((git rm -rf .git))
