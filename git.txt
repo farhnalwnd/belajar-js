@@ -16,4 +16,7 @@ cara untuk sebelum commit git
 15. untuk mendelet branch kita dapat menggunnakann command (git branch -d namaBranch) jika branch sudah di merge, tetapi jika belum dimerge dan tetap harus dihapus kita dapat menggunakan command (git branch -D namaBranch)
 16. cara untuk cancel merge yang sudah dicommit dengan menuliskan command (git reset --hard HEAD^)
 17. gunakan (git remote) untuk mengetahui apakah git sudah konek dengan github
-18. 
+18. gunakan (git remote add nama_git urlDariGithub) untuk mengaitkan ke gituhub
+19. gunakan (git push) untuk upload ke github dan gunakan (git pull) untuk menarik dari github ke git
+20. gunakan (git fetch) untuk memastikan ketika tidak dapat menggunakan git push karna ada perubahan dari github
+19. 
