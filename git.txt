@@ -19,4 +19,4 @@ cara untuk sebelum commit git
 18. gunakan (git remote add nama_git urlDariGithub) untuk mengaitkan ke gituhub
 19. gunakan (git push) untuk upload ke github dan gunakan (git pull) untuk menarik dari github ke git
 20. gunakan (git fetch) untuk memastikan ketika tidak dapat menggunakan git push karna ada perubahan dari github
-19. 
+19. woii tleee
