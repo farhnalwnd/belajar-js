@@ -11,8 +11,7 @@ cara untuk sebelum commit git
 10. untuk membuat branch baru maka kita bisa menulis command (git branch namaBranch)
 11. untuk membuat diagram dari branch kita dapat menggunakan command (git log --all --decorate --online --graph), karna commandnya agak panjang maka kita dapat mengubahnya dengan menggunakan command (alias graph = "git log --all --decorate --online --graph")
 12. cara untuk switch branch dengan menggunakan command( git checkout namaBranch), atau kita juga bisa pindah ke branch yang sudah lama dengan menggunakan command(git checkout 7AngkaHash)
-13 .jika kita ingin melanjutkan branch yang lama dan meninggalkan branch yang baru maka kita harus memanahkan head ke branch dengan menggunakan command (git checkout namaBranchBaru
+13 .jika kita ingin melanjutkan branch yang lama dan meninggalkan branch yang baru maka kita harus memanahkan head ke branch dengan menggunakan command (git checkout namaBranchBaru)
 14. untuk melakukan merge dengan branch lain menggunakan command (git merge namaBranch)
 15. untuk mendelet branch kita dapat menggunnakann command (git branch -d namaBranch) jika branch sudah di merge, tetapi jika belum dimerge dan tetap harus dihapus kita dapat menggunakan command (git branch -D namaBranch)
-16. cara untuk cancel merge yang sudah dicommit dengan menuliskan command (git reset --hard HEAD^
-)
+16. cara untuk cancel merge yang sudah dicommit dengan menuliskan command (git reset --hard HEAD^)
